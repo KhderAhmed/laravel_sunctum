@@ -1,0 +1,5 @@
+ git init
+git add .
+git commit -m "first commit"
+ git remote add origin /laravel_sunctum.git
+git push origin HEAD:master
